@@ -1,1 +1,3 @@
 .DS_Store
+capstone/gmane/index.sqlite
+capstone/gmane/content.sqlite
