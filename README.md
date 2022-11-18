@@ -1,5 +1,5 @@
 # Python for Everyone Specialization (Univeristy of Michigan)
-Developed by [Dr. Chuck Severance](https://www.dr-chuck.com/) (MIT), also available as an [ebook](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf).  
+Developed by [Dr. Chuck Severance](https://www.dr-chuck.com/) (Univeristy of Michigan), also available as an [ebook](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf).  
 Completed 20th - 23rd September 2022, certification of completion available in link.    
 
 ## Courses
